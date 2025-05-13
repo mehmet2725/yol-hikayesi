@@ -62,6 +62,12 @@ Anlam aramaya devam edersin.
 Son: “Bazı sorular cevaplardan değerlidir.”`);
             }
 
+            else {
+                alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
+            }
         }
         else if (inputKullaniciSecimGercek == 2) {
             alert(`Hayır, bilmek istemiyorum
@@ -77,12 +83,32 @@ Bir kaya üzerinde yazı:
 
             // 3.Son
 
-            if (inputKullaniciSecimHuzurCeza) {
+            if (inputKullaniciSecimHuzurCeza == 1) {
                 alert(`Huzur
 Huzur içinde yürürsün ama bir tat eksik.
 Son: “Huzur, bilinçsizliğin yumuşak hapishanesidir.”
 `);
             }
+            // 4. Son
+            else if (inputKullaniciSecimHuzurCeza == 2) {
+                alert(`Ceza
+Cevabı bile bile yoksun bırakılmak ağır gelir.
+Son: “Kaçınmak, bazen en derin pişmanlıktır.”`);
+            }
+
+            else {
+                alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
+            }
+        }
+
+        else {
+            alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
         }
     }
 
@@ -154,10 +180,32 @@ Sessiz bir kabullenişle yürümeye devam edersin.
 Son: “İlerlemek, unutmaktan değil,
 taşımaktan doğar.”`);
             }
+
+            else {
+                alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
+            }
+        }
+
+        else {
+            alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
         }
     }
 
+    else {
+        alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
+    }
+
 }
+
 
 
 
@@ -213,6 +261,13 @@ tekrar eder.
 Son: “Bağ bazen ilerlemeyi engeller. Özellikle de ayak bağı olan bağlar”
 `);
             }
+
+            else {
+                alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
+            }
         }
 
 
@@ -243,6 +298,20 @@ Kendi yolunu bulursun, ama başka birini hiç görmezsin.
 Son: “Yalnızlık bir bedel değil, bir durumdur.”
 `);
             }
+
+            else {
+                alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
+            }
+        }
+
+        else {
+            alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
         }
     }
     else if (inputKullaniciSecimPanikSakin == 2) {
@@ -282,6 +351,13 @@ Amaçsız yürüyen, her patikayı aynı zanneder.
 Ve çoğu zaman, yönü bilen değil, nedeni bilen kaybolmaz.
 Yine de bazı nedenler, insanı en çok yolundan eder.”`);
             }
+
+            else {
+                alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
+            }
         }
 
         else if (inputKullaniciSecimAynaPusula == 2) {
@@ -311,6 +387,32 @@ Gerçek benlik, tanımlara değil, sorulara saklanır.
 Ve bazen, kim olduğunu bilmemek, kim olmadığını bilmenden daha değerlidir.
 Çünkü arayış, en saf halindir.”`);
             }
+            else {
+                alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
+            }
+        }
+
+        else {
+            alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
         }
     }
+
+    else {
+        alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
+    }
+}
+else {
+    alert(`Yanlış hatırlamıyorsam 1 ya da 2 dışında bi şeye basarak
+ilerlemeye çalışma demiştim. 
+Tamam hayat her zaman iki seçenekten ibaret değildir
+ama burası benim oyunum benim kurallarım geçerli.`);
 }
